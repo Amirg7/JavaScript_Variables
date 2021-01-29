@@ -4,7 +4,19 @@ console.log(
 );
 
 // Exercise 1
+const firstName = "Amir";
+let lastName = "Gaffar";
+var age = 30;
+
 
 // Exercise 2
+fullName = `${firstName} ${lastName}`;
+
 
 // Exercise 3
+let myCity = "the Bronx, NY";
+let favPastime = "Brazilian Jui Jitsu";
+myStory = `\nHello! My name is ${fullName}. I am from ${myCity}. I enjoy ${favPastime} and coding!`;
+
+
+
